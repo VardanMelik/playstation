@@ -1,2 +1,2 @@
-# playstation
-playstation
+# playstation-responsive
+playstation-responsive
